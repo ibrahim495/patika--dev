@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\patika c#\array_method\bin\Debug\net5.0\array_method.exe
+C:\Users\Lenovo\Documents\patika c#\array_method\bin\Debug\net5.0\array_method.deps.json
+C:\Users\Lenovo\Documents\patika c#\array_method\bin\Debug\net5.0\array_method.runtimeconfig.json
+C:\Users\Lenovo\Documents\patika c#\array_method\bin\Debug\net5.0\array_method.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\patika c#\array_method\bin\Debug\net5.0\array_method.dll
+C:\Users\Lenovo\Documents\patika c#\array_method\bin\Debug\net5.0\ref\array_method.dll
+C:\Users\Lenovo\Documents\patika c#\array_method\bin\Debug\net5.0\array_method.pdb
+C:\Users\Lenovo\Documents\patika c#\array_method\obj\Debug\net5.0\array_method.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\patika c#\array_method\obj\Debug\net5.0\array_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\patika c#\array_method\obj\Debug\net5.0\array_method.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\patika c#\array_method\obj\Debug\net5.0\array_method.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\patika c#\array_method\obj\Debug\net5.0\array_method.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\patika c#\array_method\obj\Debug\net5.0\array_method.dll
+C:\Users\Lenovo\Documents\patika c#\array_method\obj\Debug\net5.0\ref\array_method.dll
+C:\Users\Lenovo\Documents\patika c#\array_method\obj\Debug\net5.0\array_method.pdb
+C:\Users\Lenovo\Documents\patika c#\array_method\obj\Debug\net5.0\array_method.genruntimeconfig.cache
