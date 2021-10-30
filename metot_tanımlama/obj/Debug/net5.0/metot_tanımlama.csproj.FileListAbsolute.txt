@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\bin\Debug\net5.0\metot_tanımlama.exe
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\bin\Debug\net5.0\metot_tanımlama.deps.json
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\bin\Debug\net5.0\metot_tanımlama.runtimeconfig.json
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\bin\Debug\net5.0\metot_tanımlama.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\bin\Debug\net5.0\metot_tanımlama.dll
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\bin\Debug\net5.0\ref\metot_tanımlama.dll
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\bin\Debug\net5.0\metot_tanımlama.pdb
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\obj\Debug\net5.0\metot_tanımlama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\obj\Debug\net5.0\metot_tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\obj\Debug\net5.0\metot_tanımlama.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\obj\Debug\net5.0\metot_tanımlama.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\obj\Debug\net5.0\metot_tanımlama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\obj\Debug\net5.0\metot_tanımlama.dll
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\obj\Debug\net5.0\ref\metot_tanımlama.dll
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\obj\Debug\net5.0\metot_tanımlama.pdb
+C:\Users\Lenovo\Documents\patika c#\metot_tanımlama\obj\Debug\net5.0\metot_tanımlama.genruntimeconfig.cache
