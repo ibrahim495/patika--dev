@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.exe
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.deps.json
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.runtimeconfig.json
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.dll
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\bin\Debug\net5.0\ref\recursive_extension_metotlar.dll
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.pdb
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.dll
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\obj\Debug\net5.0\ref\recursive_extension_metotlar.dll
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.pdb
+C:\Users\Lenovo\Documents\patika c#\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.genruntimeconfig.cache
