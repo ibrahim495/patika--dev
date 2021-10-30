@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\bin\Debug\net5.0\metot_overloading.exe
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\bin\Debug\net5.0\metot_overloading.deps.json
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\bin\Debug\net5.0\metot_overloading.runtimeconfig.json
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\bin\Debug\net5.0\metot_overloading.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\bin\Debug\net5.0\metot_overloading.dll
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\bin\Debug\net5.0\ref\metot_overloading.dll
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\bin\Debug\net5.0\metot_overloading.pdb
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\obj\Debug\net5.0\metot_overloading.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\obj\Debug\net5.0\metot_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\obj\Debug\net5.0\metot_overloading.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\obj\Debug\net5.0\metot_overloading.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\obj\Debug\net5.0\metot_overloading.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\obj\Debug\net5.0\metot_overloading.dll
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\obj\Debug\net5.0\ref\metot_overloading.dll
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\obj\Debug\net5.0\metot_overloading.pdb
+C:\Users\Lenovo\Documents\patika c#\metot_overloading\obj\Debug\net5.0\metot_overloading.genruntimeconfig.cache
